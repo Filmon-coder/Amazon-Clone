@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: orange;
+}
+
+.container{
+    text-align: center;
+}
+
+.card-image{
+    list-style: none;
+    padding: 25px;
+    text-align: center;
+    margin: 0 auto;
+    height: 250px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    center
+
+}
