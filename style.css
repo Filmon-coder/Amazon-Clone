@@ -1,3 +1,7 @@
+.main_container{
+    padding: 2%;
+}
+
 h1{
     text-align: center;
     color: orange;
@@ -7,12 +11,13 @@ h1{
     text-align: center;
 }
 
-.card-image{
+.card-img-top{
     list-style: none;
-    padding: 25px;
+    padding: 2px;
     text-align: center;
     margin: 0 auto;
-    height: 250px;
+    height: 350px;
+    width: 270px;
 }
 
 .card-title{
@@ -20,6 +25,10 @@ h1{
 }
 
 .card-text{
-    center
+    text-align: center;
 
+}
+
+.card{
+    width: 18rem;
 }
